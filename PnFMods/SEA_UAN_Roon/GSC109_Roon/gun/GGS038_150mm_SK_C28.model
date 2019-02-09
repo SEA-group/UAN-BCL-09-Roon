@@ -1,1 +1,10 @@
-<GGS038_150mm_SK_C28.model><castsShadow>true</castsShadow><exporter>1.6</exporter><materialNames /><extent>5.000000</extent><parent>PnFMods/SEA_UAN_Roon/GSC109_Roon/gun/GGS038_150mm_SK_C28_lod1</parent><castsShadow>true</castsShadow><nodefullVisual>PnFMods/SEA_UAN_Roon/GSC109_Roon/gun/GGS038_150mm_SK_C28</nodefullVisual><metaData>Wargaming | Lesta Studio</metaData></GGS038_150mm_SK_C28.model>
+<GGS038_150mm_SK_C28.model>
+	<castsShadow>	true	</castsShadow>
+	<exporter>	1.6	</exporter>
+	<materialNames />
+	<extent>	5.000000	</extent>
+	<parent>	PnFMods/SEA_UAN_Roon/GSC109_Roon/gun/GGS038_150mm_SK_C28_lod1	</parent>
+	<castsShadow>	true	</castsShadow>
+	<nodefullVisual>	PnFMods/SEA_UAN_Roon/GSC109_Roon/gun/GGS038_150mm_SK_C28	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</GGS038_150mm_SK_C28.model>

@@ -1,1 +1,38 @@
-<GGA007_20mm_Flak_38_dead.visual><boundingBox><min>-0.032214 -0.006670 -0.053314</min><max>0.040491 0.204552 0.025398</max></boundingBox><node><identifier>Scene Root</identifier><transform><row0>1.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000</row1><row2>0.000000 0.000000 1.000000</row2><row3>0.000000 0.000000 0.000000</row3></transform><node><identifier>Turret_dead</identifier><transform><row0>1.000000 0.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000 0.000000</row1><row2>0.000000 0.000000 1.000000 0.000000</row2><row3>0.000000 0.000000 0.000000 1.000000</row3></transform></node></node><renderSet><treatAsWorldSpaceObject>false</treatAsWorldSpaceObject><node>Turret_dead</node><geometry><vertices>Turret_deadShape.vertices</vertices><primitive>Turret_deadShape.indices</primitive><primitiveGroup>0<material><identifier>SHIPMAT_PBS_GunXDead</identifier><mfm>PnFMods/SEA_UAN_Roon/GSC109_Roon/gun/070be75859623338c42a2ba9afe106d3.mfm</mfm></material></primitiveGroup></geometry></renderSet></GGA007_20mm_Flak_38_dead.visual>
+<GGA007_20mm_Flak_38_dead.visual>
+	<boundingBox>
+		<min>	-0.032214 -0.006670 -0.053314	</min>
+		<max>	0.040491 0.204552 0.025398	</max>
+	</boundingBox>
+	<node>
+		<identifier>	Scene Root	</identifier>
+		<transform>
+			<row0>	1.000000 0.000000 0.000000	</row0>
+			<row1>	0.000000 1.000000 0.000000	</row1>
+			<row2>	0.000000 0.000000 1.000000	</row2>
+			<row3>	0.000000 0.000000 0.000000	</row3>
+		</transform>
+		<node>
+			<identifier>	Turret_dead	</identifier>
+			<transform>
+				<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+				<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+				<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+				<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+			</transform>
+		</node>
+	</node>
+	<renderSet>
+		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+		<node>	Turret_dead	</node>
+		<geometry>
+			<vertices>	Turret_deadShape.vertices	</vertices>
+			<primitive>	Turret_deadShape.indices	</primitive>
+			<primitiveGroup>	0
+				<material>
+					<identifier>	SHIPMAT_PBS_GunDeadX	</identifier>
+					<mfm>	PnFMods/SEA_UAN_Roon/GSC109_Roon/gun/GGA007_20mm_Flak_38_dead.mfm	</mfm>
+				</material>
+			</primitiveGroup>
+		</geometry>
+	</renderSet>
+</GGA007_20mm_Flak_38_dead.visual>

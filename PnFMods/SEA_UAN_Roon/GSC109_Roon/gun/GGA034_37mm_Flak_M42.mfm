@@ -1,0 +1,17 @@
+<GGA034_37mm_Flak_M42.mfm>
+	<materialKind>	0	</materialKind>
+	<collisionFlags>	0	</collisionFlags>
+	<fx>	shaders/std_effects/PBS_ship.fx	</fx>
+	<property>	metallicGlossMap
+		<Texture>	PnFMods/SEA_UAN_Roon/GSC109_Roon/gun/GGA034_37mm_Flak_M42_mg.dds	</Texture>
+	</property>
+	<property>	normalMap
+		<Texture>	PnFMods/SEA_UAN_Roon/GSC109_Roon/gun/GGA034_37mm_Flak_M42_n.dds	</Texture>
+	</property>
+	<property>	diffuseMap
+		<Texture>	PnFMods/SEA_UAN_Roon/GSC109_Roon/gun/GGA034_37mm_Flak_M42_a.dds	</Texture>
+	</property>
+	<property>	ambientOcclusionMap
+		<Texture>	PnFMods/SEA_UAN_Roon/GSC109_Roon/gun/default_ao.dds	</Texture>
+	</property>
+</GGA034_37mm_Flak_M42.mfm>

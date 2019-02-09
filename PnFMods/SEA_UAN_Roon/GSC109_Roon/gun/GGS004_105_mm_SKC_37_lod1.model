@@ -1,1 +1,9 @@
-<GGS004_105_mm_SKC_37_lod1.model><exporter>1.6</exporter><parent>PnFMods/SEA_UAN_Roon/GSC109_Roon/gun/GGS004_105_mm_SKC_37_lod2</parent><extent>8.000000</extent><materialNames /><castsShadow>true</castsShadow><nodefullVisual>PnFMods/SEA_UAN_Roon/GSC109_Roon/gun/GGS004_105_mm_SKC_37_lod1</nodefullVisual><metaData>Wargaming | Lesta Studio</metaData></GGS004_105_mm_SKC_37_lod1.model>
+<GGS004_105_mm_SKC_37_lod1.model>
+	<exporter>	1.6	</exporter>
+	<parent>	PnFMods/SEA_UAN_Roon/GSC109_Roon/gun/GGS004_105_mm_SKC_37_lod2	</parent>
+	<extent>	8.000000	</extent>
+	<materialNames />
+	<castsShadow>	true	</castsShadow>
+	<nodefullVisual>	PnFMods/SEA_UAN_Roon/GSC109_Roon/gun/GGS004_105_mm_SKC_37_lod1	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</GGS004_105_mm_SKC_37_lod1.model>

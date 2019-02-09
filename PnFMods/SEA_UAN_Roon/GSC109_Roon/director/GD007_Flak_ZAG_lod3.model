@@ -1,1 +1,7 @@
-<GD007_Flak_ZAG_lod3.model><castsShadow>false</castsShadow><exporter>1.6</exporter><extent>30.000000</extent><nodefullVisual>PnFMods/SEA_UAN_Roon/GSC109_Roon/director/GD007_Flak_ZAG_lod3</nodefullVisual><metaData>Wargaming | Lesta Studio</metaData></GD007_Flak_ZAG_lod3.model>
+<GD007_Flak_ZAG_lod3.model>
+	<castsShadow>	false	</castsShadow>
+	<exporter>	1.6	</exporter>
+	<extent>	30.000000	</extent>
+	<nodefullVisual>	PnFMods/SEA_UAN_Roon/GSC109_Roon/director/GD007_Flak_ZAG_lod3	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</GD007_Flak_ZAG_lod3.model>

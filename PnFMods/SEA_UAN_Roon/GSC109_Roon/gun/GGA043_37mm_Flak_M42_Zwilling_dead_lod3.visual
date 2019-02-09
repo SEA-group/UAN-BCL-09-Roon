@@ -1,1 +1,38 @@
-<GGA043_37mm_Flak_M42_Zwilling_dead_lod3.visual><boundingBox><min>-0.058814 -0.002350 -0.060216</min><max>0.059018 0.223770 0.060628</max></boundingBox><node><identifier>Scene Root</identifier><transform><row0>1.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000</row1><row2>0.000000 0.000000 1.000000</row2><row3>0.000000 0.000000 0.000000</row3></transform><node><identifier>GGA043_37mm_Flak_M42_Zwilling_dead</identifier><transform><row0>1.000000 0.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000 0.000000</row1><row2>0.000000 0.000000 1.000000 0.000000</row2><row3>0.000000 0.000000 0.000000 1.000000</row3></transform></node></node><renderSet><treatAsWorldSpaceObject>false</treatAsWorldSpaceObject><node>GGA043_37mm_Flak_M42_Zwilling_dead</node><geometry><vertices>GGA043_37mm_Flak_M42_Zwilling_dead_lod3Shape.vertices</vertices><primitive>GGA043_37mm_Flak_M42_Zwilling_dead_lod3Shape.indices</primitive><primitiveGroup>0<material><identifier>SHIPMAT_PBS_GunXDead</identifier><mfm>PnFMods/SEA_UAN_Roon/GSC109_Roon/gun/5a673512e396660ec12e52425ba58cd8.mfm</mfm></material></primitiveGroup></geometry></renderSet></GGA043_37mm_Flak_M42_Zwilling_dead_lod3.visual>
+<GGA043_37mm_Flak_M42_Zwilling_dead_lod3.visual>
+	<boundingBox>
+		<min>	-0.058814 -0.002350 -0.060216	</min>
+		<max>	0.059018 0.223770 0.060628	</max>
+	</boundingBox>
+	<node>
+		<identifier>	Scene Root	</identifier>
+		<transform>
+			<row0>	1.000000 0.000000 0.000000	</row0>
+			<row1>	0.000000 1.000000 0.000000	</row1>
+			<row2>	0.000000 0.000000 1.000000	</row2>
+			<row3>	0.000000 0.000000 0.000000	</row3>
+		</transform>
+		<node>
+			<identifier>	GGA043_37mm_Flak_M42_Zwilling_dead	</identifier>
+			<transform>
+				<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+				<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+				<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+				<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+			</transform>
+		</node>
+	</node>
+	<renderSet>
+		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+		<node>	GGA043_37mm_Flak_M42_Zwilling_dead	</node>
+		<geometry>
+			<vertices>	GGA043_37mm_Flak_M42_Zwilling_dead_lod3Shape.vertices	</vertices>
+			<primitive>	GGA043_37mm_Flak_M42_Zwilling_dead_lod3Shape.indices	</primitive>
+			<primitiveGroup>	0
+				<material>
+					<identifier>	SHIPMAT_PBS_GunDeadX	</identifier>
+					<mfm>	PnFMods/SEA_UAN_Roon/GSC109_Roon/gun/GGA043_37mm_Flak_M42_Zwilling_dead.mfm	</mfm>
+				</material>
+			</primitiveGroup>
+		</geometry>
+	</renderSet>
+</GGA043_37mm_Flak_M42_Zwilling_dead_lod3.visual>

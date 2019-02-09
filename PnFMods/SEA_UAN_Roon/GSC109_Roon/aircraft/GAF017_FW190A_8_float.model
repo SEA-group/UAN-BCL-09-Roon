@@ -1,1 +1,9 @@
-<GAF017_FW190A_8_float.model><action><name>start</name><animation>CAA_aircraft_propeller_R</animation><filler>true</filler></action><exporter>1.6</exporter><parent>PnFMods/SEA_UAN_Roon/GSC109_Roon/aircraft/GAF017_FW190A_8_float_lod1</parent><extent>5.000000</extent><materialNames /><castsShadow>true</castsShadow><animation><name>CAA_aircraft_propeller_R</name><frameRate>30.000000</frameRate><nodes>content/animation/common/CAA_aircraft_propeller_R</nodes><alpha><propeller_disk>0.000000</propeller_disk><disk>1.000000</disk></alpha></animation><nodefullVisual>PnFMods/SEA_UAN_Roon/GSC109_Roon/aircraft/GAF017_FW190A_8_float</nodefullVisual><metaData>Wargaming | Lesta Studio</metaData></GAF017_FW190A_8_float.model>
+<GAF017_FW190A_8_float.model>
+	<exporter>	1.6	</exporter>
+	<parent>	PnFMods/SEA_UAN_Roon/GSC109_Roon/aircraft/GAF017_FW190A_8_float_lod1	</parent>
+	<extent>	5.0000	</extent>
+	<materialNames />
+	<castsShadow>	true	</castsShadow>
+	<nodefullVisual>	PnFMods/SEA_UAN_Roon/GSC109_Roon/aircraft/GAF017_FW190A_8_float	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</GAF017_FW190A_8_float.model>

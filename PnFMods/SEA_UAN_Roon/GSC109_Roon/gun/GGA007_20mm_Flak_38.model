@@ -1,1 +1,9 @@
-<GGA007_20mm_Flak_38.model><exporter>1.6</exporter><extent>2.0000</extent><materialNames /><parent>PnFMods/SEA_UAN_Roon/GSC109_Roon/gun/GGA007_20mm_Flak_38_lod1</parent><nodefullVisual>PnFMods/SEA_UAN_Roon/GSC109_Roon/gun/GGA007_20mm_Flak_38</nodefullVisual><castsShadow>false</castsShadow><metaData>Wargaming | Lesta Studio</metaData></GGA007_20mm_Flak_38.model>
+<GGA007_20mm_Flak_38.model>
+	<exporter>	1.6	</exporter>
+	<extent>	2.0000	</extent>
+	<materialNames />
+	<parent>	PnFMods/SEA_UAN_Roon/GSC109_Roon/gun/GGA007_20mm_Flak_38_lod1	</parent>
+	<nodefullVisual>	PnFMods/SEA_UAN_Roon/GSC109_Roon/gun/GGA007_20mm_Flak_38	</nodefullVisual>
+	<castsShadow>	false	</castsShadow>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</GGA007_20mm_Flak_38.model>
