@@ -1,7 +1,7 @@
 <GGA043_37mm_Flak_M42_Zwilling_dead.model>
 	<castsShadow>	false	</castsShadow>
 	<exporter>	1.6	</exporter>
-	<parent>	PnFMods/SEA_UAN_Roon/GSC109_Roon/gun/GGA043_37mm_Flak_M42_Zwilling_dead_lod1	</parent>
+	<parent>	PnFMods/SEA_UAN_Roon/GSC109_Roon/gun/lods/GGA043_37mm_Flak_M42_Zwilling_dead_lod1	</parent>
 	<extent>	3.000000	</extent>
 	<nodefullVisual>	PnFMods/SEA_UAN_Roon/GSC109_Roon/gun/GGA043_37mm_Flak_M42_Zwilling_dead	</nodefullVisual>
 	<materialNames />

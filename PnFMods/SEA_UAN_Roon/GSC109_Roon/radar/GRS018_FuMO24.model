@@ -7,7 +7,7 @@
 		<isImpacting>	false	</isImpacting>
 	</action>
 	<exporter>	1.6	</exporter>
-	<parent>	PnFMods/SEA_UAN_Roon/GSC109_Roon/radar/GRS018_FuMO24_lod1	</parent>
+	<parent>	PnFMods/SEA_UAN_Roon/GSC109_Roon/radar/lods/GRS018_FuMO24_lod1	</parent>
 	<extent>	2.0000	</extent>
 	<materialNames />
 	<animation>

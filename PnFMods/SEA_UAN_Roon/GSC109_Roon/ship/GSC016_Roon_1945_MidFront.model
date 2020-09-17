@@ -1,6 +1,6 @@
 <GSC016_Roon_1945_MidFront.model>
 	<exporter>	1.6	</exporter>
-	<parent>	PnFMods/SEA_UAN_Roon/GSC109_Roon/ship/GSC016_Roon_1945_MidFront_lod1	</parent>
+	<parent>	PnFMods/SEA_UAN_Roon/GSC109_Roon/ship/lods/GSC016_Roon_1945_MidFront_lod1	</parent>
 	<extent>	8.0000	</extent>
 	<materialNames />
 	<castsShadow>	true	</castsShadow>

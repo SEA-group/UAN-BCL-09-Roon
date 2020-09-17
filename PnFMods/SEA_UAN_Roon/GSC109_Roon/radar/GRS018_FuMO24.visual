@@ -83,7 +83,7 @@
 			<primitive>	GRS018_FuMOShape24.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Misc	</identifier>
+					<identifier>	SHIPMATX_PBS_Misc	</identifier>
 					<mfm>	PnFMods/SEA_UAN_Roon/GSC109_Roon/radar/GRS018_FuMO24_skinned.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -97,7 +97,7 @@
 			<primitive>	GF018_FuMO24_Rotate_YShape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Misc	</identifier>
+					<identifier>	SHIPMATX_PBS_Misc	</identifier>
 					<mfm>	PnFMods/SEA_UAN_Roon/GSC109_Roon/radar/GRS018_FuMO24_skinned.mfm	</mfm>
 				</material>
 			</primitiveGroup>

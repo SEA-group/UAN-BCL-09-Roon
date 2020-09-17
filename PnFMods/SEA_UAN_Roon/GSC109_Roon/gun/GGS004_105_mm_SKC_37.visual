@@ -150,7 +150,7 @@
 			<primitive>	TurretShape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_GunX	</identifier>
+					<identifier>	SHIPMATX_PBS_GunX	</identifier>
 					<mfm>	PnFMods/SEA_UAN_Roon/GSC109_Roon/gun/GGS004_105_mm_SKC_37_skinned.mfm	</mfm>
 				</material>
 			</primitiveGroup>

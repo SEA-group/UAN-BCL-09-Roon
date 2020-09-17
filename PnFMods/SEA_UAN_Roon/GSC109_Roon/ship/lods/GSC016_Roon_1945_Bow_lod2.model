@@ -1,0 +1,9 @@
+<GSC016_Roon_1945_Bow_lod2.model>
+	<exporter>	1.6	</exporter>
+	<parent>	PnFMods/SEA_UAN_Roon/GSC109_Roon/ship/lods/GSC016_Roon_1945_Bow_lod3	</parent>
+	<extent>	37.0000	</extent>
+	<materialNames />
+	<castsShadow>	true	</castsShadow>
+	<nodefullVisual>	PnFMods/SEA_UAN_Roon/GSC109_Roon/ship/lods/GSC016_Roon_1945_Bow_lod2	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</GSC016_Roon_1945_Bow_lod2.model>

@@ -1,6 +1,6 @@
 <GGM016_203mm_SK_L56.model>
 	<exporter>	1.6	</exporter>
-	<parent>	PnFMods/SEA_UAN_Roon/GSC109_Roon/gun/GGM016_203mm_SK_L56_lod1	</parent>
+	<parent>	PnFMods/SEA_UAN_Roon/GSC109_Roon/gun/lods/GGM016_203mm_SK_L56_lod1	</parent>
 	<extent>	6.000000	</extent>
 	<materialNames />
 	<castsShadow>	true	</castsShadow>

@@ -29,7 +29,7 @@
 			<primitive>	GGA038_37mm_Flak_M42_deadShape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_GunDeadX	</identifier>
+					<identifier>	SHIPMATX_PBS_GunDeadX	</identifier>
 					<mfm>	PnFMods/SEA_UAN_Roon/GSC109_Roon/gun/GGA034_37mm_Flak_M42_dead.mfm	</mfm>
 				</material>
 			</primitiveGroup>

@@ -1,6 +1,6 @@
 <GAS001_Ar196.model>
 	<exporter>	1.6	</exporter>
-	<parent>	PnFMods/SEA_UAN_Roon/GSC109_Roon/aircraft/GAS001_Ar196_lod1	</parent>
+	<parent>	PnFMods/SEA_UAN_Roon/GSC109_Roon/aircraft/lods/GAS001_Ar196_lod1	</parent>
 	<extent>	5.0000	</extent>
 	<materialNames />
 	<castsShadow>	true	</castsShadow>
