@@ -194,7 +194,7 @@
 			<primitive>	MidBack_wire_lod2Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPWIRE_PBS_Hull	</identifier>
+					<identifier>	SHIPWIREX_PBS_Hull	</identifier>
 					<mfm>	PnFMods/SEA_UAN_Roon/GSC109_Roon/ship/GSC016_Roon_1945_wire.mfm	</mfm>
 				</material>
 			</primitiveGroup>
